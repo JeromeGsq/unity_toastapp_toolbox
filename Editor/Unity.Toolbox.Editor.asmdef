@@ -1,0 +1,10 @@
+{
+    "name": "Unity.Toolbox.Editor",
+    "references": [
+      "Unity.Toolbox"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
