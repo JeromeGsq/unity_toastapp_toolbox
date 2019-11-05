@@ -1,7 +1,7 @@
 {
   "name": "com.toastapp.toolbox",
   "displayName": "com.toastapp.toolbox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2019.1",
   "description": "A useful toolbox for projects",
   "type": "tool"
