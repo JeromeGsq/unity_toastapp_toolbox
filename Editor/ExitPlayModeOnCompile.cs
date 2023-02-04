@@ -1,3 +1,4 @@
+/*
 ﻿#if UNITY_EDITOR
 
 using UnityEngine;
@@ -53,3 +54,4 @@ namespace Toastapp.Editor
     }
 }
 #endif
+*/
