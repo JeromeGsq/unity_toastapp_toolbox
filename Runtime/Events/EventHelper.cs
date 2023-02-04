@@ -25,32 +25,32 @@
 
         private void Awake()
         {
-            awakeEvent.Invoke();
+            this.awakeEvent.Invoke();
         }
 
         private void OnEnable()
         {
-            onEnableEvent.Invoke();
+            this.onEnableEvent.Invoke();
         }
 
         private void Start()
         {
-            startEvent.Invoke();
+            this.startEvent.Invoke();
         }
 
         private void Update()
         {
-            updateEvent.Invoke();
+            this.updateEvent.Invoke();
         }
 
         private void OnDisable()
         {
-            onDisableEvent.Invoke();
+            this.onDisableEvent.Invoke();
         }
 
         private void OnDestroy()
         {
-            onDestroyEvent.Invoke();
+            this.onDestroyEvent.Invoke();
         }
     }
 }
